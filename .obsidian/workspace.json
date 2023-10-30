@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "525be801fed07d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4ccbcbc8255254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8cc857284ad0540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a406b568d871ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb8d9fc4439f9c9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d599c3313158f274",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d02af848523cc825",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67659caead2c1d7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1041e3f71abbb248",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c1b1fd35a0833ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d9e8efaa005f9c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7fdb24fb74960fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5d82b1a7aeea524",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94b980e60b27b931",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d599c3313158f274",
+  "lastOpenFiles": [
+    "temp-code/4 - camera & ysort/graphics/particles/heal/frames/4.png",
+    "temp-code/4 - camera & ysort/graphics/particles/heal/frames/3.png",
+    "temp-code/4 - camera & ysort/graphics/particles/heal/frames/2.png",
+    "temp-code/4 - camera & ysort/graphics/particles/heal/frames/1.png",
+    "temp-code/4 - camera & ysort/graphics/particles/heal/frames/0.png",
+    "temp-code/4 - camera & ysort/graphics/particles/flame/frames/11.png",
+    "temp-code/4 - camera & ysort/graphics/particles/flame/frames/10.png",
+    "temp-code/4 - camera & ysort/graphics/particles/flame/frames/09.png",
+    "temp-code/4 - camera & ysort/graphics/particles/flame/frames/08.png",
+    "temp-code/4 - camera & ysort/graphics/particles/flame/frames/07.png",
+    "temp-code/4 - camera & ysort/graphics/particles/flame/frames/06.png",
+    "temp-code/4 - camera & ysort/graphics/particles/heal/frames",
+    "temp-code/4 - camera & ysort/graphics/particles/flame/frames",
+    "temp-code/4 - camera & ysort/graphics/monsters/squid/move",
+    "temp-code/4 - camera & ysort/graphics/monsters/squid/idle",
+    "temp-code/4 - camera & ysort/graphics/monsters/squid/attack",
+    "temp-code/4 - camera & ysort/graphics/monsters/spirit/move",
+    "temp-code/4 - camera & ysort/graphics/monsters/spirit/idle",
+    "temp-code/4 - camera & ysort/graphics/monsters/spirit/attack",
+    "temp-code/4 - camera & ysort/graphics/monsters/raccoon/move",
+    "temp-code/4 - camera & ysort/graphics/monsters/raccoon/idle",
+    "temp-code/README.md",
+    "README.md",
+    "README.md"
+  ]
+}
